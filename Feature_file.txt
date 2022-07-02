@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Another text
 test feature
+=======
+Another text
+>>>>>>> 6cf5ad88ba771e4c59590c9a2c341a62fb3a9c73
